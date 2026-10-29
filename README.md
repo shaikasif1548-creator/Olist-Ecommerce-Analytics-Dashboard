@@ -453,5 +453,7 @@ The dashboard provides a scalable foundation for analyzing e-commerce performanc
 
 **⭐ If you found this project useful, consider giving it a star on GitHub.**
 
-
+(`###### Power BI Report File
+The interactive Power BI report was developed using Microsoft Power BI Desktop. Due to file size limitations, the .pbix file is not included in this repository.
+This repository contains the project documentation and dashboard screenshots. The Power BI report file is available upon request.)
 
