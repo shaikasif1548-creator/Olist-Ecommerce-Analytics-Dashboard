@@ -353,14 +353,15 @@ Support operational and strategic business decision-making.
   '![Analytics Dashboard](04_SCREENSHOTS/analytics_dashboard.png)
 
 
-
 ###### **🗂️ Data Model**
 
 
 
 **Data Model**
 
+### Data Model 
 
+'![Data_Model](04_SCREENSHOTS//data_mmodel.png)
 
 The data model demonstrates relationship design and dimensional modeling skills, which are critical components of Power BI development.
 
@@ -404,13 +405,7 @@ The dashboard focuses on descriptive analytics and does not independently determ
 
 Olist-Ecommerce-Analytics-Dashboard/
 
-│
-
-├── Dataset/
-
-├── PowerBI_File/
-
-├── Documentation/
+│ 
 
 ├── 04\_SCREENSHOTS/
 
@@ -426,7 +421,7 @@ Olist-Ecommerce-Analytics-Dashboard/
 
 │   └── data\_model.png
 
-│
+|    ├──OLIST_STEP_TRACKER_DOCUMENTATION.xlsx
 
 └── README.md
 
