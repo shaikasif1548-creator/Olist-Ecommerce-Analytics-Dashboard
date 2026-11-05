@@ -62,7 +62,7 @@ The dashboard enables analysis of sales performance, customer behavior, product 
 <a id="dataset-overview"></a>
 ## 📊 Dataset Overview
 
-The project uses the Olist Brazilian E-Commerce Dataset, which contains information about orders, customers, products, sellers, payments, reviews, and geographic locations.
+The project uses the [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), which contains information about orders, customers, products, sellers, payments, reviews, and geographic locations.
 
 **Source Datasets**
 
