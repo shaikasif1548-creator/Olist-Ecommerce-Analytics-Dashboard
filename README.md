@@ -361,7 +361,7 @@ Support operational and strategic business decision-making.
 
 ### Data Model 
 
-'![Data_Model](04_SCREENSHOTS/data_mmodel.png)
+'![Data_Model](04_SCREENSHOTS/data_model.png)
 
 The data model demonstrates relationship design and dimensional modeling skills, which are critical components of Power BI development.
 
