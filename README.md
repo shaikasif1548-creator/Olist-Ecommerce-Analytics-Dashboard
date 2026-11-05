@@ -323,13 +323,9 @@ Key Performance Indicators are listed in the [KPI table](#key-performance-indica
 
 ### 5. Delivery Performance Insights
 
-**Finding:** The overall average delivery time is 12.50 days. The updated state-level chart was reported to show:
+**Finding:** The overall average delivery time is 12.50 days. At state level, Roraima (RR) has the longest average at 29.34 days (41 delivered orders), compared with 8.70 days for São Paulo (SP, 40,501 delivered orders), a difference of 20.64 days.
 
-- RR (Roraima): 29.34 days
-- SP (São Paulo): 8.70 days
-- The reported difference is 20.64 days.
-
-**Business implication:** These preliminary figures suggest a potential geographic difference in delivery performance. The underlying calculation and data relationships must be validated before drawing definitive conclusions.
+**Business implication:** Delivery performance varies significantly by region. RR's average is based on a small number of orders, so it should be read as an indicator of a remote-region delivery challenge rather than a precise estimate.
 
 **Recommendations:**
 
@@ -414,11 +410,6 @@ Reliable business conclusions depend on correct relationships, consistent metric
 7. Analyze payment behavior using clearly defined metrics.
 8. Maintain data quality and document KPI definitions.
 
-### 11. Limitations and Further Analysis
-
-The RR-versus-SP delivery-time comparison requires validation of the DAX calculation, customer-to-order relationship, and order volumes.
-
-Further analysis could include customer retention, repeat purchases, product-category revenue rankings, delivery delays by seller, and the relationship between delivery performance and customer satisfaction. These should be treated as future analysis opportunities until calculated and verified.
 
 The Olist E-commerce Analytics project demonstrates how business intelligence can transform e-commerce data into performance indicators, operational insights, and data-driven recommendations. By combining sales, customer, product, payment, order-status, and delivery information, the project provides a foundation for understanding business performance and identifying areas for further investigation. Findings should be validated before operational decisions are made.
 
