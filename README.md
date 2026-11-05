@@ -63,6 +63,8 @@ Performance Monitoring
 
 Interactive Dashboard Development
 
+Business Insights and Recommendations
+
 ###### 
 
 ###### **🛠️ Tools and Technologies**
@@ -266,7 +268,6 @@ Average Delivery Time
 Additional modeling techniques included:
 
 
-
 Distinct count calculations to avoid duplicate records.
 
 Date-based analysis for monthly trends.
@@ -276,13 +277,10 @@ Interactive filters and slicers.
 KPI performance calculations.
 
 
-
 ###### **📊 Data Visualization**
 
 
-
 The dashboard includes:
-
 
 
 KPI Cards
@@ -302,13 +300,9 @@ Cross-filtering Visuals
 Consistent formatting and design principles were applied across all dashboard pages to improve usability and readability.
 
 
-
 ###### **🚀 Business Value**
 
-
-
 The dashboard helps stakeholders:
-
 
 
 Monitor sales and order performance.
@@ -324,9 +318,7 @@ Measure delivery efficiency and cancellation trends.
 Compare payment method usage and purchasing patterns.
 
 
-
 Support operational and strategic business decision-making.
-
 
 
 ###### **📷 Dashboard Screenshots**
